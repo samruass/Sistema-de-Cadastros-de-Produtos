@@ -17,7 +17,7 @@ Remover produtos
 
 Verificar estoque baixo
 
-Tecnologias utilizadas
+# Tecnologias utilizadas
 
 Python
 
